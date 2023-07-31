@@ -1,9 +1,14 @@
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/wumirosey/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[www.twitter.com/wumirosey](https://twitter.com/wumirosey)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
+
 
 About Me:
 ----------------------------------
