@@ -9,8 +9,9 @@
   </a>
 </div>
 
-<iframe src="https://giphy.com/embed/SYRWWIB4I1CIpCD8pV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/codelikeagirl-lena-losinglena-losing-SYRWWIB4I1CIpCD8pV">via GIPHY</a></p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 About Me:
 ----------------------------------
