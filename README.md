@@ -11,6 +11,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=wumirose&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wumirose&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wumirose/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wumirose&theme=dark)](https://git.io/streak-stats)
 
 Tech Stack:
 
