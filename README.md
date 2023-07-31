@@ -1,10 +1,10 @@
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
 
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/wumirosey/](https://www.linkedin.com/in/wumirosey/)">
+  <a href="https://www.linkedin.com/in/wumirosey/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://twitter.com/wumirosey](https://twitter.com/wumirosey)">
+  <a href="https://twitter.com/wumirosey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
