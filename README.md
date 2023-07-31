@@ -1,5 +1,7 @@
 ### Hi there 👋. I'm Olawumi(Ola)👩‍🦱
 
+About Me:
+----------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on KGs research projects. Find my resume [here](https://drive.google.com/file/d/1-I-oCEFc5_9tn_O3y_fzq3OB6J5i8Bqk/view?usp=sharing)
