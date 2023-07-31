@@ -7,7 +7,7 @@
   <a href="https://twitter.com/wumirosey">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-    <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/chKLljLdaReQaJgSW8/giphy.gif"/>
 </div>
 
 
