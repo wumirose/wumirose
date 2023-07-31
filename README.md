@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=wumirose&style=flat-square&color=blue" alt=""/>
+
+<iframe src="https://giphy.com/embed/SYRWWIB4I1CIpCD8pV" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/codelikeagirl-lena-losinglena-losing-SYRWWIB4I1CIpCD8pV">via GIPHY</a></p>
 
 
 About Me:
