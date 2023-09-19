@@ -22,7 +22,7 @@ About Me:
 - 💬 Ask me about Nigeria jollof😋
 - 📫 How to reach me: wumirose@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to do everything, but sometimes, end up doing nothing😭
+- ⚡ Not So Fun fact: I love to do everything, but sometimes, end up doing nothing😭
   
 Github Stats:
 ----------------------------------
