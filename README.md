@@ -36,6 +36,8 @@ Github Streak:
 ----------------------------------
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wumirose&theme=dark)](https://git.io/streak-stats)
 
-Tech:
+Tech Stack:
+Python| Graph Databases| TensorFlow | Pytorch | Scikit Learn
+HTML | CSS | SQL | WordPress | Joomla | Mobirise 
 ----------------------------------
 
