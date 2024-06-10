@@ -18,11 +18,11 @@ About Me:
 ----------------------------------
 - 👩‍💻 I’m currently working on knowledge graph edge inference
 - 📖 I’m currently a graduate student at UNC-Chapel Hill
-- 👨‍👩‍👧‍👦 I’m looking to collaborate on KGs research projects. Find my resume [here](https://drive.google.com/file/d/1-I-oCEFc5_9tn_O3y_fzq3OB6J5i8Bqk/view?usp=sharing)
+- 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/1sny0--z2GOZm-KoNV9xQA7Oh_15jw03K/view)
 - 💬 Ask me about Nigeria jollof😋
 - 📫 How to reach me: wumirose@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Not So Fun fact: I love to do everything, but sometimes, end up doing nothing😭
+- ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
   
 Github Stats:
 ----------------------------------
