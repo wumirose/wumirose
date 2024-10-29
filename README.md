@@ -23,6 +23,10 @@ About Me:
 - 📫 How to reach me: wumirose@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
+
+Research and Publications:
+----------------------------------
+[Google Scholar](https://scholar.google.com/citations?user=4tvUEjkAAAAJ&hl=en)
   
 Github Stats:
 ----------------------------------
