@@ -21,7 +21,6 @@ About Me:
 - 👨‍👩‍👧‍👦 I’m looking to collaborate on KG research projects. Find my resume [here](https://drive.google.com/file/d/17gRyC8zgwY4R3DxuO7SS-r7XtgEb6Bqs/view?usp=drive_link)
 - 💬 Ask me about Nigeria jollof😋
 - 📫 How to reach me: wumirose@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Not So Fun fact: I love to do everything, but sometimes, I end up doing nothing😭
 
 Research and Publications:
